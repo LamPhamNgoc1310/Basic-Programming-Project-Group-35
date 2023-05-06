@@ -1,6 +1,11 @@
 # Basic-Programming-Project-Group-35
 Group 35
 Exercise 1,2,3,4,5,6,7
+
+How to run:
+step 1: In terminal, in the directory of that folder, type in "gcc final.c result.c -o result"
+step 2: you will see a file named "result.exe" created in the directory, to run that type in ".\result.exe"
+
 Members:
 Pham Ngoc Lam
 22BI13240
